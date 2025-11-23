@@ -1,0 +1,3 @@
+###README – Proč je databáze přiložená jako schéma
+
+Supabase nenabízí read-only přístup pro běžné účty, tato funkce je dostupná pouze v Enterprise plánu. Místo skutečného přístupu proto přikládám kompletní SQL schéma databáze, které slouží jako přehled struktury tabulek, vazeb a datového modelu používaného v projektu. Umožňuje pochopit architekturu bez sdílení citlivých klíčů nebo přístupu do produkční databáze.
